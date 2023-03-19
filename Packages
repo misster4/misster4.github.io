@@ -22,6 +22,6 @@ Section: System
 Maintainer: Misster4
 Archtecture: iphone-arm
 Filename: ./debs/com.12ipa.deb
-Despend: com.rbt.useragentchanger
+Depends: com.rbt.useragentchanger
 Size: 78,208
 MD5sum: A5B672F431D9C49C82C3CAA10466D13F
