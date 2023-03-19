@@ -15,3 +15,13 @@ Archtecture: iphone-arm
 Filename: ./debs/com.ih.Autolead.deb
 Size: 460,140
 MD5sum: 8AFF3EE7FF2C920D2EDAA6EF01E0858D
+
+Package: 12ipa
+Version: 1.0
+Section: System
+Maintainer: Misster4
+Archtecture: iphone-arm
+Filename: ./debs/com.12ipa.deb
+Modifications: com.rbt.useragentchanger
+Size: 78,208
+MD5sum: A5B672F431D9C49C82C3CAA10466D13F
