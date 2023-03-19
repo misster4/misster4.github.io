@@ -1,4 +1,4 @@
-Package: com.ih.hook
+Package: IHook
 Version: 1.0
 Section: Utilities
 Maintainer: Misster4
@@ -6,3 +6,12 @@ Archtecture: iphone-arm
 Filename: ./debs/com.ih.hook.deb
 Size: 12,456
 MD5sum: 088153017B6F251FDB62BBB9E3D5228D
+
+Package: IAutolead
+Version: 1.0
+Section: System
+Maintainer: Misster4
+Archtecture: iphone-arm
+Filename: ./debs/com.ih.Autolead.deb
+Size: 460,140
+MD5sum: 8AFF3EE7FF2C920D2EDAA6EF01E0858D
