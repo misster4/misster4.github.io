@@ -22,6 +22,6 @@ Section: System
 Maintainer: Misster4
 Archtecture: iphone-arm
 Filename: ./debs/com.12ipa.deb
-Depends: useragentchanger
+Depends: com.unlimapps.uaupdatetools
 Size: 78208
 MD5sum: a5b672f431d9c49c82c3caa10466d13f
